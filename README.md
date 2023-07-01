@@ -13,4 +13,7 @@ By monitoring the status of the EC2 instances and being alerted when any of them
 The Prometheus server and exporters will collect a wide range of metrics about the performance and health of the EC2 instances, which can help you identify trends and issues that may not be immediately apparent. 
 ### Enhanced collaboration:
 By sending alerts to a Slack channel, you can make it easier for team members to stay informed about the status of the EC2 instances and collaborate on resolving any issues that arise. 
-### Overall, the result of this system should be a more reliable, transparent, and collaborative way to manage the EC2 instances in your environment.
+<br>**Overall, the result of this system should be a more reliable, transparent, and collaborative way to manage the EC2 instances in your environment.**<br/>
+
+
+
