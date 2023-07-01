@@ -1,5 +1,6 @@
 # Prometheus Monitoring and Alerting for Multiple EC2 Instances in Multiple Accounts with Slack Integration
-
+## Skills and Technologies used:
+**EC2, Prometheus, Alert, Alert Manager, Slack**
 ## Objective :
 To create a Prometheus monitoring system for multiple Amazon Elastic Compute Cloud (EC2) instances in multiple accounts and send alerts to a Slack community when any of the servers are down
 
